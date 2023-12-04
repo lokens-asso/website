@@ -25,7 +25,7 @@ The activities of the association include:
 
 ### Academic Papers
 
-  * [*Local Crypto-Tokens for Local Economics*](https://dl.acm.org/doi/10.1145/3565383.3566113): Articulation of the problem of designing crypto-tokens based on double-spending detection instead of prevention, making them compatible with eventually-consistent replication such as done by SSB. [[paper]](https://dl.acm.org/doi/10.1145/3565383.3566113)
+  * [*Local Crypto-Tokens for Local Economics*](https://dl.acm.org/doi/10.1145/3565383.3566113): Articulation of the problem of designing crypto-tokens based on double-spending detection instead of prevention, making them compatible with eventually-consistent replication. [[paper]](https://dl.acm.org/doi/10.1145/3565383.3566113)
   * [*Designing Peer-to-Peer Systems as Closed Knowledge Commons*](https://openreview.net/forum?id=w4ZrjzLj1f): How to make peer-to-peer systems content and software updates available *only* to contributors, either of time or money, to incentivize contributions. [[paper]](https://openreview.net/forum?id=w4ZrjzLj1f).
 
 ### Websites
