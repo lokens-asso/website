@@ -4,7 +4,7 @@
 layout: home
 ---
 
-[Purpose](#purpose) | [Contacts](#contacts) | [References](#references) |
+[Purpose](#purpose) | [Contacts](#contacts) | [Links](#links) |
 
 ## Purpose
 
