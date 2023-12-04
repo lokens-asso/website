@@ -15,7 +15,7 @@ The activities of the association include:
   2. Financial hosting of new projects experimenting with the associated technologies;
   3. Funding of researchers and developers through grants;
   4. Outreach to potential users, developers, and reseachers;
-  5. Showcase association members' products and services.
+  5. Showcase of members' products and services.
 
 ## Contacts
 
