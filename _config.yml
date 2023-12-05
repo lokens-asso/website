@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Local Crypto-Tokens Association
+title: Lokens Association
 description: >- # this means to ignore newlines until "baseurl:"
   Swiss-based non-profit association of researchers, developers, and users of
   local crypto-tokens.
