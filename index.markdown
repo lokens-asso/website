@@ -8,7 +8,7 @@ layout: home
 
 ## Purpose
 
-The Lokens Swiss-based non-profit association is a collective of researchers, developers, and users of electronic local cryptographic tokens in which: (1) tokens may be created by any participant for any purpose in any amount; (2) the value of tokens is derived from trust by other participants that the token creators will fulfill all promises associated with their tokens in the future; (3) the ability of participants to exchange tokens with others is conditional on having established a good reputation over repeated transactions. The aim of the association is to foster resilient and sustainable economic networks within close-knit communities, online or offline.
+The Lokens Swiss-based non-profit association is a collective of researchers, developers, and users of electronic local cryptographic tokens in which: (1) tokens may be created by any participant for any purpose in any amount; (2) the value of tokens is derived from trust by other participants that the token creators will fulfill all promises associated with their tokens in the future; (3) the ability of participants to exchange tokens with others is conditional on having established a good reputation over repeated transactions. The purpose of the association is to foster resilient and sustainable economic networks within close-knit communities, online or offline.
 
 The activities of the association include:
   1. Organization of workshops to bring together developers and researchers to develop the required technologies;
