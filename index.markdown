@@ -17,11 +17,16 @@ The activities of the association include:
   4. Outreach to potential users, developers, and reseachers;
   5. Showcase of members' products and services.
 
+
 ## Contacts
 
 - Chairperson: [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick/)
 
 ## Links
+
+### Association
+
+  * [Articles](./resources/Founding-Articles.pdf)
 
 ### Academic Papers
 
