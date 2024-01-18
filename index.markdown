@@ -12,10 +12,9 @@ The Lokens Swiss-based non-profit association is a collective of researchers, de
 
 The activities of the association include:
   1. Organization of workshops to bring together developers and researchers to develop the required technologies;
-  2. Financial hosting of new projects experimenting with the associated technologies;
-  3. Funding of researchers and developers through grants;
-  4. Outreach to potential users, developers, and reseachers;
-  5. Showcase of members' products and services.
+  2. Funding of researchers and developers through grants;
+  3. Outreach to potential users, developers, and reseachers;
+  4. Showcase of members' products and services.
 
 
 ## Contacts
